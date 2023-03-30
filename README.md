@@ -1,4 +1,4 @@
-# The TikTok Ban Is an Attack on Our Rights
+# The TikTok Ban Is an Assault on General-Purpose Computing
 
 A few days ago, after TikTok CEO Shou Zi Chew testified before congress, [Kevin McCarthy announced that the House would move ahead with a proposed "TikTok ban" bill](https://thehill.com/policy/technology/3919146-mccarthy-says-house-will-press-ahead-with-tiktok-bill-after-ceos-testimony/). Among other things, the [RESTRICT Act](https://www.warner.senate.gov/public/index.cfm/2023/3/senators-introduce-bipartisan-bill-to-tackle-national-security-threats-from-foreign-tech) aims to "proactively tackle... sources of potentially dangerous technology before they gain a foothold in America". While the mechanism is not yet clear, the intent of the bill appears to be more than just preventing a corporation from doing business in the US, or even barricading its servers: it posits that dangerous software should be prevented from running on US devices altogether.
 
@@ -22,7 +22,7 @@ I will not defend each of the applications I mentioned earlier as a net positive
 
 With regard to privacy, [Apple took a stand](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute): we will not unlock phones at the behest of the FBI, because we value the privacy of user data more than the ability for a backdoor to help law enforcement. For the sake of an open future, the freedom to run software must be seen in a similar light, and we need to lobby our platform vendors to make it outright *impossible* for any party to impose a software ban. Today, Apple can respond in full honesty to court orders by saying that they [simply don't have the ability to access certain kinds of user data](https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/). A platform vendor must be able to give the same kind of reply to a dictator demanding the removal of an app that makes them look bad, a recording industry lawyer complaining about a user's ability to save their own audio, or a government body mandating the end of encrypted communications between private parties. The user's device must remain sancrosanct for software as it does for data.
 
-Regardless of what China may be doing with our information, nobody should have the right to tell us what software we cannot run on our own personal devices. If TikTok is a national security threat, then eliminate the corporation, or pass data privacy laws, or even make connecting to their servers illegal; but leave our devices alone!
+Regardless of what China may be doing with our information, nobody should have the right to tell us what software we cannot run on our own personal devices. If TikTok is a national security threat, then eliminate the corporation, or pass data privacy laws, or even make connecting to their servers illegal; but leave our devices alone.
 
 Signed,
 
